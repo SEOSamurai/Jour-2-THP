@@ -1,4 +1,4 @@
-puts"Entrez un chiffre"
+puts "donne-moi un nombre"
 number = gets.chomp.to_i + 1
 
 number.times do 
